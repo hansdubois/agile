@@ -1,6 +1,6 @@
 # Retrospective
-In the beginning of a team it is good to start a retrospective with plusses and minuses.
-  This way you can easily find difficulties that hapend during the previous sprint.
+In the beginning of a team it I like to start a retrospective with plusses and minuses.
+  This way you can easily find difficulties that happend during the previous sprint.
 
 ## Preparation
 Two days in advance of the retrospective I remind everyone that we have a retrospective coming up and how they should prepare for it.
